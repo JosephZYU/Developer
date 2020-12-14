@@ -6,7 +6,8 @@
 PATH="/Library/Frameworks/Python.framework/Versions/3.9/bin:${PATH}"
 export PATH
 
-# Setting Alias for python3 as default by Joseph
+# Setting Alias for python3 as default python by Joseph
 alias python=python3
 
-# alias pip="pip3"
+# Setting Alias for pip3 as default pip by Joseph
+alias pip=pip3
