@@ -6,7 +6,7 @@
     "editor.mouseWheelZoom": true,
     "editor.formatOnSave": true,
     "terminal.integrated.fontSize": 15,
-    "workbench.colorTheme": "Community Material Theme Palenight High Contrast",
+    "terminal.integrated.fontFamily": "MesloLGS NF",
     "workbench.iconTheme": "material-icon-theme",
     "workbench.settings.editor": "json",
     "workbench.settings.openDefaultSettings": true,
@@ -23,4 +23,5 @@
     "zenMode.fullScreen": false,
     "zenMode.hideLineNumbers": false,
     "zenMode.hideTabs": false,
+    "git.autofetch": true,
 }
