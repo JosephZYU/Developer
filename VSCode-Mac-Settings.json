@@ -30,33 +30,3 @@
 
 // Final back up from Windows (PC) VS Code Settings on Feb 05, 2020
 // Default executable path: 🤏 C:\\Users\\JosephYu\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe
-{
-    "python.pythonPath": "/usr/local/bin/python3",
-    "python.formatting.provider": "autopep8",
-    "python.linting.enabled": true,
-    "python.linting.pylintEnabled": true,
-    "editor.mouseWheelZoom": true,
-    "editor.formatOnSave": true,
-    "terminal.integrated.fontSize": 12,
-    "terminal.integrated.fontFamily": "MesloLGS NF",
-    "workbench.iconTheme": "material-icon-theme",
-    "workbench.settings.editor": "json",
-    "workbench.settings.openDefaultSettings": true,
-    "workbench.settings.useSplitJSON": true,
-    "workbench.startupEditor": "newUntitledFile",
-    "code-runner.executorMap": {
-        "python": "$pythonPath -u $fullFileName",
-    },
-    "code-runner.clearPreviousOutput": true,
-    "code-runner.showExecutionMessage": false,
-    "code-runner.ignoreSelection": true,
-    "code-runner.saveFileBeforeRun": true,
-    "zenMode.centerLayout": false,
-    "zenMode.fullScreen": false,
-    "zenMode.hideLineNumbers": false,
-    "zenMode.hideTabs": false,
-    "git.autofetch": true,
-    "explorer.confirmDelete": false,
-    "diffEditor.ignoreTrimWhitespace": false,
-    "explorer.confirmDragAndDrop": false,
-}
