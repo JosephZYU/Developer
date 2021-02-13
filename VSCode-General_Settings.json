@@ -1,4 +1,4 @@
-// Mac Settings
+// 1 of 2: Mac Settings
 
 {
     "python.pythonPath": "/usr/local/bin/python3",
@@ -28,8 +28,7 @@
     "git.autofetch": true,
 }
 
-// Windows (PC) VS Code Settings on Feb, 2020
-// Default executable path: 🤏 C:\\Users\\JosephYu\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe
+// 2 of 2: Windows (PC) VS Code Settings on Feb, 2020
 
 {
     "python.pythonPath": "C:\\Users\\JosephYu\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
@@ -41,6 +40,7 @@
     "terminal.integrated.fontSize": 14,
     // "terminal.integrated.fontFamily": "MesloLGS NF",
     "workbench.colorTheme": "Community Material Theme Palenight High Contrast",
+    "workbench.iconTheme": "eq-material-theme-icons-light",
     "workbench.settings.editor": "json",
     "workbench.settings.openDefaultSettings": true,
     "workbench.settings.useSplitJSON": true,
