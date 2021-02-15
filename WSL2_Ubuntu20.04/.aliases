@@ -1,10 +1,13 @@
 #!/usr/bin/env bash
 
-# JYU - set custom alias for python3 and Windows 10 Desktop ✅
+# JYU - custom alias ✅
 alias python=python3.9
 alias pip=pip3
 alias win='cd /mnt/c/Users/JosephYu/Desktop/'
 alias ec2='chmod 400 WSL.pem; ssh -i WSL.pem ec2-user@3.237.181.112 -y'
+
+# alias ch='history | grep "git commit"'
+# alias hg='history | grep'
 
 # Easier navigation: .., ..., ...., ....., ~ and -
 alias ..="cd .."
