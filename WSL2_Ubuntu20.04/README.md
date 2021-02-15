@@ -78,3 +78,8 @@ This ensures we have Python 3.8, pip, and virtualenv.
 After a successful installation, remove the downloaded archive to save disk space
     💲 cd /usr/src/
     💲 rm -f Python-3.8.6.tgz (rm -f Python*)
+    
+#### git config
+Configure git global variables
+    💲 git config --global user.email "you@example.com"
+    💲 git config --global user.name "Your Name"
