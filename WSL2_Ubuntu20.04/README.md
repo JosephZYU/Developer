@@ -53,6 +53,12 @@ Quick Set-Up:
    
     💲 sudo apt -y update && sudo apt -y upgrade
 
+   MUST set default to Ubuntu in order to enable bash from Windows Command Prompt
+   
+     💲 wslconfig /L
+     💲 wslconfig /setdefault Ubuntu-20.04
+     
+     (Ref: https://stackoverflow.com/a/62581337/15063197)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ⭐ How to Install and Update Python to 3.9 in Ubuntu ⭐
