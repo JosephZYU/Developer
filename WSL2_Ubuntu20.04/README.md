@@ -41,13 +41,17 @@ Step 6 - Install your Linux distribution of choice
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Quick Set-Up:
 
-    Create alias for Windows 10 Desktop winthin .bashrc file
+   Create alias for Windows 10 Desktop winthin .bashrc file
     
     🅱 alias win='cd /mnt/c/Users/JosephYu/Desktop'
 
-    Installing VS Code Server for x64
+   Installing VS Code Server for x64
     
     💲 code .
+    
+   Essential Update / Upgrade
+   
+    💲 sudo apt -y update && sudo apt -y upgrade
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
