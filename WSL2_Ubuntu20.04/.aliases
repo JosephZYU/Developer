@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # JYU - custom alias ✅
-alias python=python3.9
+alias python=python3 # python=python3.9
 alias pip=pip3
 alias win='cd /mnt/c/Users/JosephYu/Desktop/'
 alias ec2='chmod 400 WSL.pem; ssh -i WSL.pem ec2-user@3.237.181.112 -y'
