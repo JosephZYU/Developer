@@ -1,12 +1,6 @@
-⭐ Strictly follow the official link from Microsoft: 
+⭐ Strictly follow the official link from Microsoft ⭐ 
 
     🧭 https://docs.microsoft.com/en-us/windows/wsl/install-win10#step-4---download-the-linux-kernel-update-package
-
-  Search keyword "Customizing Your Terminal" from Corey's home page: https://www.youtube.com/c/Coreyms/featured
-
-  Origina GitHub Repo: https://github.com/mathiasbynens/dotfiles
-
-  Video Instructions: https://youtu.be/c5RZWDLqifA?t=790
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -48,7 +42,9 @@ Step 6 - Install your Linux distribution of choice
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-⭐⭐⭐ https://www.liquidweb.com/kb/how-to-install-and-update-python-to-3-9-in-ubuntu/ ⭐⭐⭐
+⭐ How to Install and Update Python to 3.9 in Ubuntu ⭐
+    
+    🧭 https://www.liquidweb.com/kb/how-to-install-and-update-python-to-3-9-in-ubuntu/
 
 PUT ALL TOGETHER
     💲 sudo apt -y update && sudo apt -y upgrade
@@ -87,3 +83,12 @@ Configure git global variables
 
     💲 git config --global user.email "josephyu.careers@outlook.com"
     💲 git config --global user.name "Joseph Yu"
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Additional References:
+
+#### Search keyword "Customizing Your Terminal" from Corey's home page: https://www.youtube.com/c/Coreyms/featured
+
+#### Origina GitHub Repo: https://github.com/mathiasbynens/dotfiles
+
+#### Video Instructions: https://youtu.be/c5RZWDLqifA?t=790
