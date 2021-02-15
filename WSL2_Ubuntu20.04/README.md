@@ -46,7 +46,8 @@ Step 6 - Install your Linux distribution of choice
     
     🧭 https://www.liquidweb.com/kb/how-to-install-and-update-python-to-3-9-in-ubuntu/
 
-PUT ALL TOGETHER
+#### ⚡ PUT ALL TOGETHER
+
     💲 sudo apt -y update && sudo apt -y upgrade
     💲 sudo apt install software-properties-common && sudo add-apt-repository ppa:deadsnakes/ppa && sudo apt -y update && sudo apt install python3.9 python3.9-venv python3.9-dev
 
@@ -87,8 +88,6 @@ Configure git global variables
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Additional References:
 
-#### Search keyword "Customizing Your Terminal" from Corey's home page: https://www.youtube.com/c/Coreyms/featured
-
-#### Origina GitHub Repo: https://github.com/mathiasbynens/dotfiles
-
-#### Video Instructions: https://youtu.be/c5RZWDLqifA?t=790
+Search keyword "Customizing Your Terminal" from Corey's home page: https://www.youtube.com/c/Coreyms/featured
+Origina GitHub Repo: https://github.com/mathiasbynens/dotfiles
+Video Instructions: https://youtu.be/c5RZWDLqifA?t=790
