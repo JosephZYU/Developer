@@ -39,6 +39,17 @@ Step 6 - Install your Linux distribution of choice
     ⏬ https://www.microsoft.com/en-sg/p/ubuntu-2004-lts/9n6svws3rx71?rtc=1
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Quick Set-Up:
+
+    Create alias for Windows 10 Desktop winthin .bashrc file
+    
+    🅱 alias win='cd /mnt/c/Users/JosephYu/Desktop'
+
+    Installing VS Code Server for x64
+    
+    💲 code .
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ⭐ How to Install and Update Python to 3.9 in Ubuntu ⭐
     
