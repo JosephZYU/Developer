@@ -2,8 +2,6 @@
 
     🧭 https://docs.microsoft.com/en-us/windows/wsl/install-win10#step-4---download-the-linux-kernel-update-package
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 Step 1 - Enable the Windows Subsystem for Linux
     Open PowerShell as Administrator and run:
 
