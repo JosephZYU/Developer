@@ -52,11 +52,10 @@ PUT ALL TOGETHER
     💲 sudo apt -y update && sudo apt -y upgrade
     💲 sudo apt install software-properties-common && sudo add-apt-repository ppa:deadsnakes/ppa && sudo apt -y update && sudo apt install python3.9 python3.9-venv python3.9-dev
 
-# Check your current versino of Python
+#### Check your current versino of Python
     💲 python --version
 
-# Update and Refresh Repository Lists
-# -y: YES to all update! 😎
+#### Update and Refresh Repository Lists (-y: YES to all update! 😎)
     💲 sudo apt -y update
     (NOTE: you MUST complete this update before installing pip ❗)
 
@@ -71,11 +70,11 @@ This ensures we have Python 3.8, pip, and virtualenv.
     💲 sudo apt install python3.9 python3.9-venv python3.9-dev
     💲 sudo apt install python3.9 python3.9-venv python3.9-dev python3-pip (NOTE: NOTE yet tested)
 
-# Verify installaion
+#### Verify installaion
     💲 python3.9 -V
     💲 ls /usr/bin/python*
 
-# Clean Up
+#### Clean Up
 After a successful installation, remove the downloaded archive to save disk space
     💲 cd /usr/src/
     💲 rm -f Python-3.8.6.tgz (rm -f Python*)
