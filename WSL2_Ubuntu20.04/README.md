@@ -51,6 +51,10 @@ Quick Set-Up:
     
     💲 code .
     
+    💻 install Python (Extension)
+    💻 install Code Runner (Extension)
+    💻 install Jupyter (Extension)
+    
    Essential Update / Upgrade
    
     💲 sudo apt -y update && sudo apt -y upgrade
