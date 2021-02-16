@@ -44,6 +44,8 @@ Quick Set-Up:
    Create alias for Windows 10 Desktop winthin .bashrc file
     
     🅱 alias win='cd /mnt/c/Users/JosephYu/Desktop'
+    🅱 alias pip='pip3'
+    🅱 alias python='python3'
 
    Installing VS Code Server for x64
     
