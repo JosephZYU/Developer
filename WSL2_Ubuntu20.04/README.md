@@ -75,6 +75,10 @@ Quick Set-Up:
     💲 source venv/bin/activate
     
     💲 pip install --upgrade pip
+    
+    💲 pip install pipenv
+    💲 sudo pip install pipenv
+    💲 sudo pip3 install pipenv
      
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
