@@ -105,9 +105,9 @@ Finally, we run the installation to add the latest version of Python.
 As an aside, we have opted to install the -dev and -venv features as well. 
 This ensures we have Python 3.8, pip, and virtualenv. 
 
-    💲 sudo apt install python3.9
-    💲 sudo apt install python3.9 python3.9-venv python3.9-dev
-    💲 sudo apt install python3.9 python3.9-venv python3.9-dev python3-pip (NOTE: NOTE yet tested)
+    💲 sudo apt -y install python3.9
+    💲 sudo apt -y install python3.9 python3.9-venv python3.9-dev
+    💲 sudo apt -y install python3.9 python3.9-venv python3.9-dev python3-pip (NOTE: NOTE yet tested)
 
 #### Verify installaion
     💲 python3.9 -V
