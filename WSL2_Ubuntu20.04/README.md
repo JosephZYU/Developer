@@ -59,6 +59,14 @@ Quick Set-Up:
      💲 wslconfig /setdefault Ubuntu-20.04
      
      (Ref: https://stackoverflow.com/a/62581337/15063197)
+
+   Install Pip and Venv for Ubuntu 20.04
+    
+    💲 sudo apt -y install python3-pip
+    💲 sudo apt -y install python3-venv
+    
+     (https://www.techiediaries.com/ubuntu/install-python-3-pip-venv-ubuntu-20-04-19/)
+     
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ⭐ How to Install and Update Python to 3.9 in Ubuntu ⭐
