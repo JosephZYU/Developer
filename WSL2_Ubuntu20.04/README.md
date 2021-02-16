@@ -69,6 +69,13 @@ Quick Set-Up:
     
      (https://www.techiediaries.com/ubuntu/install-python-3-pip-venv-ubuntu-20-04-19/)
      
+   Create and setup virtual environment
+    
+    💲 python -m venv venv
+    💲 source venv/bin/activate
+    
+    💲 pip install --upgrade pip
+     
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ⭐ How to Install and Update Python to 3.9 in Ubuntu ⭐
