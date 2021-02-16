@@ -43,6 +43,10 @@ Quick Set-Up:
 
    Create alias for Windows 10 Desktop winthin .bashrc file
     
+    🅱 Enter new UNIX username:josephyu
+    🅱 New password:
+    🅱 Retype new password:
+    
     🅱 alias win='cd /mnt/c/Users/JosephYu/Desktop'
     🅱 alias pip='pip3'
     🅱 alias python='python3'
