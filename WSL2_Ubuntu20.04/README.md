@@ -79,6 +79,7 @@ Quick Set-Up:
     
     💲 sudo apt -y install python3-pip
     💲 sudo apt -y install python3-venv
+    💲 sudo pip3 install pipenv
     
      (https://www.techiediaries.com/ubuntu/install-python-3-pip-venv-ubuntu-20-04-19/)
      
@@ -89,10 +90,6 @@ Quick Set-Up:
     
     💲 pip install --upgrade pip
     
-    💲 pip install pipenv
-    💲 sudo pip install pipenv
-    💲 sudo pip3 install pipenv
-     
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ⭐ How to Install and Update Python to 3.9 in Ubuntu ⭐
