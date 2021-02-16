@@ -54,6 +54,11 @@ Quick Set-Up:
     💻 install Python (Extension)
     💻 install Code Runner (Extension)
     💻 install Jupyter (Extension)
+
+   Configure git global variables
+
+    💲 git config --global user.email "josephyu.careers@outlook.com"
+    💲 git config --global user.name "Joseph Yu"
     
    Essential Update / Upgrade
    
@@ -122,12 +127,6 @@ After a successful installation, remove the downloaded archive to save disk spac
 
     💲 cd /usr/src/
     💲 rm -f Python-3.8.6.tgz (rm -f Python*)
-    
-#### git config
-Configure git global variables
-
-    💲 git config --global user.email "josephyu.careers@outlook.com"
-    💲 git config --global user.name "Joseph Yu"
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Additional References:
