@@ -64,6 +64,19 @@ Quick Set-Up:
     💲 git config --global user.email "josephyu.careers@outlook.com"
     💲 git config --global user.name "Joseph Yu"
     
+   Optional - download / clone / copy sample script from Ezee Linux
+
+    (💲 cd)
+    (💲 mkdir /bin/)
+    
+    💲 cp chksys ~/bin/
+    💲 cp up ~/bin/
+    
+    (Ref: https://youtu.be/47hbXbqbwso?t=145)
+    
+    (Ref: https://github.com/EzeeLinux/ezeelinux-script-collection)
+    (Ref: https://github.com/EzeeLinux/up-debian_ubuntu_update_tool)
+    
    Essential Update / Upgrade
    
     💲 sudo apt -y update && sudo apt -y upgrade
