@@ -92,7 +92,7 @@ Quick Set-Up:
     
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-⭐ How to Install and Update Python to 3.9 in Ubuntu ⭐
+⭐ OPTIONAL - How to Install and Update Python to 3.9 in Ubuntu ⭐
     
     🧭 https://www.liquidweb.com/kb/how-to-install-and-update-python-to-3-9-in-ubuntu/
 
