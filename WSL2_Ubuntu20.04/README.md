@@ -94,6 +94,9 @@ Quick Set-Up:
     💲 sudo apt -y install python3-venv
     💲 sudo pip3 install pipenv
     
+    💲 sudo apt install tree
+    
+    
      (https://www.techiediaries.com/ubuntu/install-python-3-pip-venv-ubuntu-20-04-19/)
      
    Create and setup virtual environment
