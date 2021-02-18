@@ -8,7 +8,7 @@ alias .....="cd ../../../.."
 
 # Shortcuts
 alias g="cd ~/GitHub/"
-alias c="code ~/GitHub/Python-0-Automation/"
+alias n="code ~/GitHub/Python-0-Automation/GEN_NOTES/"
 alias win='cd /mnt/c/Users/JosephYu/Desktop'
 alias pip='pip3'
 alias python='python3'
