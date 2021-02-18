@@ -1,0 +1,27 @@
+# vscode settings
+.vscode
+
+# Local virtual environment
+venv
+
+# To-be-deleted files
+TBD*
+
+# Compiled Python files
+*.pyc
+
+# Folder view configuration files
+.DS_Store
+Desktop.ini
+
+# Thumbnail cache files
+._*
+Thumbs.db
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+# Private Information
+.private
+.gitconfig
