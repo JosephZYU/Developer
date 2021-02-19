@@ -14,7 +14,7 @@ alias win='cd /mnt/c/Users/JosephYu/Desktop'
 alias pip='pip3'
 alias python='python3'
 
-alias ch='history | grep "git commit"'
+alias hc='history | grep "git commit"'
 alias hg='history | grep'
 
 # alias d="cd ~/Documents/Dropbox"
