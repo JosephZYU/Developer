@@ -8,6 +8,7 @@ alias .....="cd ../../../.."
 
 # Shortcuts
 alias g="cd ~/GitHub/"
+alias d="cd ~/Downloads"
 alias n="code ~/GitHub/Python-0-Automation/GEN_NOTES/"
 alias win='cd /mnt/c/Users/JosephYu/Desktop'
 
@@ -17,8 +18,6 @@ alias python='python3'
 alias hc='history | grep "git commit"'
 alias hg='history | grep'
 
-# alias d="cd ~/Documents/Dropbox"
-# alias dl="cd ~/Downloads"
 # alias dt="cd ~/Desktop"
 # alias p="cd ~/projects"
 
@@ -72,3 +71,8 @@ alias reload="exec ${SHELL} -l"
 
 # Print each PATH entry on a separate line
 alias path='echo -e ${PATH//:/\\n}'
+
+# Clean
+# alias clean='rm -rf ~/.Trash/*; rm -rf ~/Downloads/*'
+# alias wipe_env='rm -rf ~/tutorial_env; python3 -m venv ~/tutorial_env'
+# alias tut_env='source ~/tutorial_env/bin/activate'
