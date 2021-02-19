@@ -10,8 +10,13 @@ alias .....="cd ../../../.."
 alias g="cd ~/GitHub/"
 alias n="code ~/GitHub/Python-0-Automation/GEN_NOTES/"
 alias win='cd /mnt/c/Users/JosephYu/Desktop'
+
 alias pip='pip3'
 alias python='python3'
+
+alias ch='history | grep "git commit"'
+alias hg='history | grep'
+
 # alias d="cd ~/Documents/Dropbox"
 # alias dl="cd ~/Downloads"
 # alias dt="cd ~/Desktop"
