@@ -33,7 +33,7 @@ done
 curl "https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.bash" > ${homedir}/.git-completion.bash
 
 # Run the Homebrew Script
-./brew.sh
+# ./brew.sh
 
 # Run the Sublime Script
-./sublime.sh
+# ./sublime.sh
