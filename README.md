@@ -1,5 +1,6 @@
 # dotfiles
        
+     💲 cd dotfiles/
      💲 chmod +x install.sh
      💲 sudo ./install.sh /home/josephyu
      
