@@ -16,7 +16,7 @@ homedir=$1
 dotfiledir=${homedir}/dotfiles
 
 # list of files/folders to symlink in ${homedir} # private
-files="bash_profile bashrc bash_prompt aliases"
+files="aliases bash_profile bash_prompt bashrc gitconfig"
 
 # change to the dotfiles directory
 echo "Changing to the ${dotfiledir} directory"
