@@ -1,4 +1,7 @@
 # dotfiles
+       
+     💲 ~/install.sh /home/josephyu/
+     🎬 https://youtu.be/kIdiWut8eD8?t=1050
 
 NOTE: Everything is the same as in bash. For zsh  just replace .bash_profile with  .zprofile and .bashrc  with  .zshrc
 
