@@ -2,7 +2,7 @@
        
      💲 cd dotfiles/
      💲 (Optional: chmod +x install.sh)
-     💲 ./install.sh /home/josephyu
+     💲 ./install.sh $HOME
      
      🎬 https://youtu.be/kIdiWut8eD8?t=1050
 
