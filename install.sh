@@ -1,9 +1,13 @@
 #!/bin/bash
 ############################
 # This script creates symlinks from the home directory to any desired dotfiles in ${homedir}/dotfiles
-# And also installs Homebrew Packages
-# And sets Sublime preferences
+# And also installs apt Packages
+# And sets VSCode preferences
 ############################
+
+echo "#######################"
+echo "JOSEPH'S DOTFILES SETUP"
+echo "#######################"
 
 if [ "$#" -ne 1 ]; then
     echo "Usage: install.sh <home_directory>"
@@ -35,5 +39,5 @@ curl "https://raw.githubusercontent.com/git/git/master/contrib/completion/git-co
 # Run the apt Script
 ./apt.sh
 
-# Run the Sublime Script
-# ./sublime.sh
+# Run the VSCode Script
+# ./vscode.sh
