@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 ############################
 # This script creates symlinks from the home directory to any desired dotfiles in ${homedir}/dotfiles
 # And also installs Homebrew Packages
@@ -32,8 +32,8 @@ done
 # Download Git Auto-Completion
 curl "https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.bash" > ${homedir}/.git-completion.bash
 
-# Run the Homebrew Script
-# ./brew.sh
+# Run the apt Script
+./apt.sh
 
 # Run the Sublime Script
 # ./sublime.sh
