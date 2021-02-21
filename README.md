@@ -1,7 +1,7 @@
 # dotfiles
        
      💲 cd dotfiles/
-     💲 (Optional: chmod +x install.sh)
+     💲 (Optional: chmod +x install.sh apt.sh)
      💲 ./install.sh $HOME
      
      🎬 https://youtu.be/kIdiWut8eD8?t=1050
