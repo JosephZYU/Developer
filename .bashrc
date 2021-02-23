@@ -1,4 +1,4 @@
-echo 'FROM BASHRC'
+# echo 'FROM BASHRC'
 
 # If not running interactively, don't do anything
 # Always re-direct to .bash_profile ❗
