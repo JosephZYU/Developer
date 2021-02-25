@@ -1,6 +1,7 @@
 ⭐ Strictly follow the official link from Microsoft ⭐ 
 
     🧭 https://docs.microsoft.com/en-us/windows/wsl/install-win10#step-4---download-the-linux-kernel-update-package
+__________________________________________________________________________________________________________________________________________________________________________________________
 
 Step 1 - Enable the Windows Subsystem for Linux
     Open PowerShell as Administrator and run:
@@ -38,7 +39,8 @@ Step 6 - Install your Linux distribution of choice
 
     ⏬ https://www.microsoft.com/en-sg/p/ubuntu-2004-lts/9n6svws3rx71?rtc=1
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+__________________________________________________________________________________________________________________________________________________________________________________________
+
 Quick Set-Up:
 
    Create alias for Windows 10 Desktop winthin .bashrc file
@@ -106,21 +108,21 @@ Quick Set-Up:
     
     💲 pip install --upgrade pip
     
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+__________________________________________________________________________________________________________________________________________________________________________________________
 
 ⭐ OPTIONAL - How to Install and Update Python to 3.9 in Ubuntu ⭐
     
     🧭 https://www.liquidweb.com/kb/how-to-install-and-update-python-to-3-9-in-ubuntu/
 
-#### ⚡ PUT ALL TOGETHER
+⚡ PUT ALL TOGETHER
 
     💲 sudo apt -y update && sudo apt -y upgrade
     💲 sudo apt install software-properties-common && sudo add-apt-repository ppa:deadsnakes/ppa && sudo apt -y update && sudo apt install python3.9 python3.9-venv python3.9-dev
 
-#### Check your current versino of Python
+Check your current versino of Python
     💲 python --version
 
-#### Update and Refresh Repository Lists (-y: YES to all update! 😎)
+Update and Refresh Repository Lists (-y: YES to all update! 😎)
     💲 sudo apt -y update
     (NOTE: you MUST complete this update before installing pip ❗)
 
@@ -128,26 +130,29 @@ Quick Set-Up:
     (💲 sudo apt -y upgrade) - Optional
 
 Finally, we run the installation to add the latest version of Python. 
-As an aside, we have opted to install the -dev and -venv features as well. 
-This ensures we have Python 3.8, pip, and virtualenv. 
+    
+    - As an aside, we have opted to install the -dev and -venv features as well. 
+    - This ensures we have Python 3.8, pip, and virtualenv. 
 
     💲 sudo apt -y install python3.9
     💲 sudo apt -y install python3.9 python3.9-venv python3.9-dev
     💲 sudo apt -y install python3.9 python3.9-venv python3.9-dev python3-pip (NOTE: NOTE yet tested)
 
-#### Verify installaion
+Verify installaion
     💲 python3.9 -V
     💲 ls /usr/bin/python*
 
-#### Clean Up
-After a successful installation, remove the downloaded archive to save disk space
+Clean Up
+
+    - After a successful installation, remove the downloaded archive to save disk space
 
     💲 cd /usr/src/
     💲 rm -f Python-3.8.6.tgz (rm -f Python*)
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+__________________________________________________________________________________________________________________________________________________________________________________________
+
 Additional References:
 
-Search keyword "Customizing Your Terminal" from Corey's home page: https://www.youtube.com/c/Coreyms/featured
-Origina GitHub Repo: https://github.com/mathiasbynens/dotfiles
-Video Instructions: https://youtu.be/c5RZWDLqifA?t=790
+    Search keyword "Customizing Your Terminal" from Corey's home page: https://www.youtube.com/c/Coreyms/featured
+    Origina GitHub Repo: https://github.com/mathiasbynens/dotfiles
+    Video Instructions: https://youtu.be/c5RZWDLqifA?t=790
